@@ -1,6 +1,6 @@
 # Overview of COVID-19 Related Deaths in The United States
 
-[Link to the Tableau Public Story](https://public.tableau.com/shared/F5PNN84Q4?:display_count=n&:origin=viz_share_link)
+[Link to the Tableau Public Story](https://public.tableau.com/views/OverviewofCOVID-19RelatedDeathsintheUnitedStates/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ## Introduction
